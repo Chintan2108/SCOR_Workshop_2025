@@ -1,0 +1,6 @@
+name: scor_2025
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: C:\Users\chint\anaconda3\envs\scor_2025
